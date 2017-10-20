@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2017-fall-teaching-1
@@ -8,7 +8,7 @@ date: 2017-10-13
 location: "Boca Raton, Florida"
 ---
 
-Guest Lecturer, Advanced Managerial Finance
+Guest Lecturer, Advanced Managerial Finance (80 minutes)
 
 Stock Valuation
 ======
