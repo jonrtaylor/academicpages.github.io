@@ -19,7 +19,7 @@ Work experience
 ======
 * 2012-2017: Senior Associate
   * Anchor Financial Services, CPA, PA
-  * Duties included:
+  * Duties included: Client service, portfolio analysis, financial services
   
 * 2010-2012: Research Assistant/Institutional Trader
   * Noble Financial Capital Markets
@@ -27,12 +27,13 @@ Work experience
     
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Equity Research
+* Microsoft Excel
+* Coding
+  * Python
+  * R
+  * SAS
+* Portfolio Performance Analysis
 
 Publications
 ======
@@ -54,4 +55,4 @@ Teaching
   
 Service and leadership
 ======
-* Co-founder of Family Meals, Inc. - Non-profit organization established to promote family meals
+* Co-founder of Family Meals, Inc. - Non-profit organization established to help families in need by providing them the raw ingredients necessary for them to prepare a traditional family meal.
