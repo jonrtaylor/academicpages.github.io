@@ -13,8 +13,14 @@ Guest Lecturer, Advanced Managerial Finance
 Stock Valuation
 ======
 How the stock market works
+
 How to use the dividend growth model to value stocks
+
 Features of common stocks
+
 How ratio valuation works using a real company as an example
+
 How to read an exchange's order book
+
 Q&A
+
